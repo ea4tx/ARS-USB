@@ -1,4 +1,4 @@
-💡 Empezando
+💡 Iniciando
 ===============
 
 .. figura:: images/getting_started/Multivibrator.gif
