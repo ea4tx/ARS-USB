@@ -1,5 +1,5 @@
-💡 Iniciando
-===============
+💡 IniciandoS p
+==================
 
 .. figura:: images/getting_started/Multivibrator.gif
     :align: right
@@ -7,7 +7,7 @@
 
     Circuito oscilador
 
-La placa ElectroLab se vende como un kit, lo que significa que tendrás que ensamblarla (y soldarla). Lo primero que debes hacer 
+La placa ea4tx se vende como un kit, lo que significa que tendrás que ensamblarla (y soldarla). Lo primero que debes hacer 
 una vez que recibas tu kit es asegurarte de encontrar todos los componentes incluidos:
 
 1. Placa ElectroLab (PCB verde)

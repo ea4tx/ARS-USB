@@ -6,7 +6,7 @@
         :align: left
         :alt: Contenido del kit
 
-El |Product| se puede pedir parcialmente ensamblada, donde todos los componentes :term:`SMD` ya están ensamblados y solo necesitas montar y soldar los componentes :term:`THT`, como los pines y el resto de los componentes en la cara superior.
+El ARS -> |Product| se puede pedir parcialmente ensamblada, donde todos los componentes :term:`SMD` ya están ensamblados y solo necesitas montar y soldar los componentes :term:`THT`, como los pines y el resto de los componentes en la cara superior.
 
 .. Caution::
     Si nunca antes has soldado ningún componente electrónico, este kit puede resultarte bastante complicado y, por lo tanto, se recomienda encarecidamente hacerlo acompañado por alguien con algo de experiencia.
