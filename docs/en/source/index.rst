@@ -17,6 +17,9 @@ in very few steps.
 Contents
 --------
 
+:doc:`intro`
+    Introduction to the |Product|.
+
 :doc:`safety`
     How to operate and manipulate the |Product|.
 
@@ -52,6 +55,7 @@ please contact me directly:
    :maxdepth: 2
    :hidden:
 
+   intro
    safety   
    getting_started
    assembly
