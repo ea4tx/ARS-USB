@@ -21,9 +21,9 @@ from babel.dates import format_date
 
 # -- Project information -----------------------------------------------------
 
-project = 'ElectroLab'
-author = 'J.G.Aguado'
-email = 'jon-garcia@hotmail.com'
+project = 'ARS-USB'
+author = 'Pablo EA4TX'
+email = 'EA4TX@EA4TX.com'
 
 release = '1'
 version = '3'
