@@ -1,4 +1,4 @@
-ElectroLab
+EA4TX ARS-USB
 ###############
 
 .. raw:: html
@@ -7,10 +7,11 @@ ElectroLab
 
 
 ¡Bienvenido a la página de documentación de la |Product|!
-Un intuitivo entrenador electrónico para principiantes y amantes de los circuitos.
+El ARS-USB es el interface de motor universal más completo y con mejor rendimiento del mercado. Te permitirá controlar el posicionamiento de tus antenas 
+desde el ordenador por medio del puerto USB.
 
-Con su amplio conjunto de componentes integrados, la ElectroLab ofrece una plataforma muy potente y versátil para construir circuitos electrónicos
-en muy pocos pasos.
+El ARS es un interface universal, puesto que se puede adaptar a cualquier tipo de motor; el manual de usuario describe el conexionado de éste, con una larga 
+lista de motores soportados.
 
 
 Contenidos
