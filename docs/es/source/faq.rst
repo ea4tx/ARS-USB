@@ -21,3 +21,12 @@ Quiero ampliar el conjunto de sensores para probar otros, ¿puedo hacerlo?
     Sí, algunos circuitos pueden volverse tan complejos que es posible que necesites hacerlo de esta manera. En
     este caso, simplemente conecta el 3.3V de un ElectroLab al 3.3V del otro y el :term:`GND` de uno al
     :term:`GND` del otro, para que ambos estén alimentados correctamente.
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   faqs/faq1
+   faqs/faq2
+   faqs/faq3
+   faqs/faq4
