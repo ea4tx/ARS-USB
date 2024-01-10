@@ -26,7 +26,7 @@ Quiero ampliar el conjunto de sensores para probar otros, ¿puedo hacerlo?
    :maxdepth: 3
    :numbered:
 
-   faqs/faq1
-   faqs/faq2
-   faqs/faq3
-   faqs/faq4
+   faqs/ars
+   faqs/arsvcom
+   faqs/rspi
+   faqs/otros
