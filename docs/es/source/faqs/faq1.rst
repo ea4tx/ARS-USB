@@ -8,5 +8,5 @@ FAQs sobre ARS-USB
    :maxdepth: 2
    :numbered:
 
-   faqs/ars/ars1
-   faqs/ars/ars2
+   ars/ars1
+   ars/ars2
