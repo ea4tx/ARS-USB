@@ -7,7 +7,7 @@ Te sugiero que visites este enlace donde se explica la puesta en marcha al detal
     `https://ea4tx.com/faqs/remote-antenna-control <https://ea4tx.com/faqs/remote-antenna-control/>`_
 
 .. figure:: ars-rspi.png
-    :align: left
-    :figwidth: 200px
+    :align: center
+    :figwidth: 600px
 
     Ejemplo
