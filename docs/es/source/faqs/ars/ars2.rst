@@ -1,4 +1,7 @@
-ARS2 FAQs
-=========
+ARS-USB y el Control remoto
+============================
 
-ARS2
+Una excelente opción para el control remoto del motor por medio del ARS-USB, sin necesidad de tener que dejar un ordenador de sobremesa las 24h encendidas, es por medio de una Raspberry Pi o Rock3.
+
+Te sugiero que visites este enlace donde se explica la puesta en marcha al detalle
+    `Link ea4tx.com/faqs/remote-antenna-control <https://ea4tx.com/faqs/remote-antenna-control/>`_
