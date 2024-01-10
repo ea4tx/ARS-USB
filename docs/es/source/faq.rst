@@ -23,12 +23,10 @@ Quiero ampliar el conjunto de sensores para probar otros, ¿puedo hacerlo?
     :term:`GND` del otro, para que ambos estén alimentados correctamente.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :numbered:
 
    faqs/faq1
-    faqs/ars/ars1
-    faqs/ars/ars2
    faqs/faq2
    faqs/faq3
    faqs/faq4
