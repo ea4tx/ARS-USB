@@ -12,6 +12,6 @@ Mandos ARS-USB
 
 Desde el año 2020 existen 2 nuevos modelos de ARS-USB que permiten sustituir el mando original por estos nuevos controladores:
 
- **ARS-USB_Yaesu:** y que sirve para reemplazar el mando Yaesu en modelos que funcionan a 24Vcc como son: G800, G1000, G2800 o el nuevo G450ADC. Tambien se puede usar para cualquier otro motor que funcione a 24Vcc e incluye todo lo necesario para conectarse y manejar el motor.
- **ARS-USB_PST:** y que sirve para reemplazar el mando Prosistel de la serie B y D que emplean potenciometro multivuelta y que funcionan a 12 o 24Vcc. Tambien es válido para cualquier motor que emplee potenciometro multivuelta.
+ - **ARS-USB_Yaesu:** y que sirve para reemplazar el mando Yaesu en modelos que funcionan a 24Vcc como son: G800, G1000, G2800 o el nuevo G450ADC. Tambien se puede usar para cualquier otro motor que funcione a 24Vcc e incluye todo lo necesario para conectarse y manejar el motor.
+ - **ARS-USB_PST:** y que sirve para reemplazar el mando Prosistel de la serie B y D que emplean potenciometro multivuelta y que funcionan a 12 o 24Vcc. Tambien es válido para cualquier motor que emplee potenciometro multivuelta.
 
