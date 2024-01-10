@@ -5,3 +5,9 @@ Una excelente opción para el control remoto del motor por medio del ARS-USB, si
 
 Te sugiero que visites este enlace donde se explica la puesta en marcha al detalle
     `https://ea4tx.com/faqs/remote-antenna-control <https://ea4tx.com/faqs/remote-antenna-control/>`_
+
+.. figure:: ars-rspi.png
+    :align: left
+    :figwidth: 200px
+
+    Ejemplo
