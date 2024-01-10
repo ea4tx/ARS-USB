@@ -12,7 +12,7 @@ La primera versión del ARS aparece en 1996 e incluía la Tarjeta RCI – placa 
 
 El |Product| es detectado en el ordenador como un puerto Serie/COM, por lo que cualquier programa (seguimiento de satélites, programa de Log, etc) que configure dicho puerto, lo va a poder controlar, sin necesidad de software adicional. Además, el ARS-USB funciona con los mismos comandos/instrucciones que el Yaesu GS232A, lo que hace las cosas más sencillas, puesto que esto tiene la ventaja de que cualquier programa que soporte este modelo de interface, va a funcionar con el ARS-USB.
 
-Hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo al mando original y 2 para reemplezar el mando:
+Hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo al mando original y 2 para reemplazar el mando:
 
 - **ARS-USB para Acimut**: Para controlar un único motor de Acimut.
 - **ARS-USB para Acimut & Elevación**: Para manejar 2 motores: Acimut y Elevación.
