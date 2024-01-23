@@ -28,7 +28,7 @@ Contenidos
     Archivos de diseño de la |Product|.
 
 :doc:`inglés`
-    🇪🇦Versión 🇪🇦 inglesa 'https://ars-usb.readthedocs.io/en/latest/'
+    🇪🇦Versión 🇪🇦⚓🇪🇦 inglesa 'https://ars-usb.readthedocs.io/en/latest/'
 
 .. _support:
 Soporte técnico
