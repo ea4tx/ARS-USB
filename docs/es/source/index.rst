@@ -14,7 +14,7 @@ desde el ordenador por medio del puerto USB.
 El ARS es un interface universal, puesto que se puede adaptar a cualquier tipo de motor; el manual de usuario describe el conexionado de éste, con una larga 
 lista de motores soportados.
 
-Use `Link text <https://ars-usb.readthedocs.io/en/latest />`_ for inline web links
+Use  English version `Link HERE <https://ars-usb.readthedocs.io/en/latest />`_ for English web Pages
 
 Contenidos
 --------
@@ -28,8 +28,6 @@ Contenidos
 :doc:`design`
     Archivos de diseño de la |Product|.
 
-:Pag_ingles:`inglés`
-    🇪🇦Versión inglesa  o  https://ars-usb.readthedocs.io/en/latest/
 
 .. _support:
 Soporte técnico
