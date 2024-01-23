@@ -6,9 +6,6 @@ EA4TX ARS-USB
     <iframe src="_static/carousel.html" style="width: 100%; height: 300px; border: none;"></iframe>
 
 
-extlinks = {'espanol': ('https://ars-usb.readthedocs.io/es/latest/',
-                      'espanol %s')}
-
 ¡Bienvenido a la página de documentación del |Product|!
 
 El ARS-USB es el interface de motor universal más completo y con mejor rendimiento del mercado. Te permitirá controlar el posicionamiento de tus antenas 
@@ -30,7 +27,8 @@ Contenidos
 :doc:`design`
     Archivos de diseño de la |Product|.
 
-
+:doc:`inglés`
+    🇪🇦Versión inglesa 'https://ars-usb.readthedocs.io/en/latest/'
 
 .. _support:
 Soporte técnico
