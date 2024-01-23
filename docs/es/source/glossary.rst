@@ -41,7 +41,7 @@
    ADC
        Analog-Digital Converter (Convertidor Analógico-Digital)
     
-    API 
+   API 
        Application Program Interface (Interface de programación de Aplicación). En nuestro caso, se corresponde con los comandos de programación para mandar instrucciones para controlar el ARS-USB.
    
    RoHS
