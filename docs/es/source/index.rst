@@ -27,8 +27,8 @@ Contenidos
 :doc:`design`
     Archivos de diseño de la |Product|.
 
-:doc:`inglés`
-    🇪🇦Versión 🇪🇦⚓\U0001f1ea\U0001f1f8 inglesa %F0%9F%87%AA%F0%9F%87%B8 o 	:flag_es: y :es: https://ars-usb.readthedocs.io/en/latest/
+:Pag_ingles:`inglés`
+    🇪🇦Versión inglesa  o 	:flag_es: y :es: https://ars-usb.readthedocs.io/en/latest/
 
 .. _support:
 Soporte técnico
