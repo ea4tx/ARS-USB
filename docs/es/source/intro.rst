@@ -13,7 +13,7 @@ En la zona de  :doc:`descarga`, podrás bajerte los manuales y todo el software 
 .. image:: images/ars_cad1.png
     :width: 49%
 
-La primera versión del ARS aparece en 1996 e incluía la Tarjeta RCI :doc:`modelos/rci` – placa de interface con el mando del motor. 6 años más tarde, se rediseña la tarjeta y pasa a llamarse: Tarjeta RCI-SE (RCI – Second Edition). 
+La primera versión del ARS aparece en 1996 e incluía la Tarjeta :doc:`modelos/rci` – placa de interface con el mando del motor. 6 años más tarde, se rediseña la tarjeta y pasa a llamarse: Tarjeta RCI-SE (RCI – Second Edition). 
 Estos dos modelos de interface usaban una conexión con el ordenador por medio de puerto paralelo. Finalmente en Diciembre de 2011, se presenta la tercera generación del producto:ARS-USB, que incluye como extras un puerto USB 2.0.
 
 El |Product| es detectado en el ordenador como un puerto Serie/COM, por lo que cualquier programa (seguimiento de satélites, programa de Log, etc) que configure dicho puerto, lo va a poder controlar, sin necesidad de software adicional.
