@@ -25,6 +25,9 @@ Contenidos
 :doc:`faq`
     Típicas preguntas y repuestas que te ayudarán a resolver dudas o problemas |faq|.
 
+:doc:`descarga`
+    Area de descarga de los manuales y software del ARS-USB.
+
 :doc:`design`
     Archivos de diseño de la |Product|.
 

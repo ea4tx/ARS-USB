@@ -14,7 +14,7 @@
        Pulse-width Modulation (Modulación por ancho de pulso). Se usa en algunos modelos para permitir controlar la velocidad del motor
 
    Yaesu GS232A
-       Interface para control de motores (diseñado por Yaesu para algunos de sus motores) y que su  :term:`API` API o comandos de control han sido adoptado universalmente por otros fabricantes de interface.
+       Interface para control de motores (diseñado por Yaesu para algunos de sus motores) y que su  :term:`API` o comandos de control han sido adoptado universalmente por otros fabricantes de interface.
        Es el ejemplo del ARS-USB que en vez de definir su porpio interface, ha optado por incorporar esos comandos haciendolo compatible 100% con los programas que soportan el GS232A
 
    Op.Amp.
