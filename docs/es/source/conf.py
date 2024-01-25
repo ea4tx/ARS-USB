@@ -23,10 +23,10 @@ from babel.dates import format_date
 
 project = 'ARS-USB'
 author = 'Pablo EA4TX'
-email = 'EA4TX@EA4TX.com'
+email = 'ea4tx@ea4tx.com'
 
 release = '1'
-version = '3'
+version = '1'
 
 
 today = date.today()
