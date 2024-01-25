@@ -53,7 +53,8 @@ por favor contáctame directamente:
    :hidden:
 
    intro 
-   faq      
+   faq     
+   descarga 
    design   
    glossary
    
