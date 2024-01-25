@@ -1,4 +1,4 @@
-⤵️ Descarga
+⤵ Descarga
 ================
 Puedes descargar los manuales y programas desde los siguientes enlaces:
 
