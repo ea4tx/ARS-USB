@@ -11,3 +11,9 @@ Te sugiero que visites este enlace donde se explica la puesta en marcha en detal
     :width: 50%
 
     Ejemplo
+
+.. figure:: ../../images\arsvcom.png
+    :align: center
+    :width: 50%
+
+    Ejemplo
