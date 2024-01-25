@@ -25,8 +25,7 @@ El ARS-USB incluye un mecanismo de protección, para evitar que en algunas situa
 Por ejemplo si el ARS lee 0 (o el valor del ADC es el limite izquierdo) entonces el ARS evita e inhibe que el relé de giro a izquierda se pueda activar.
 
 En este enlace se explica el motivo y el por qué:
-
-https://ea4tx.com/faqs/ars-usb-faqs/some-relay-is-not-working/
+    https://ea4tx.com/faqs/ars-usb-faqs/some-relay-is-not-working/
 
 
 Reasignar el puerto COM en Windows
@@ -35,5 +34,4 @@ Reasignar el puerto COM en Windows
 La primera vez que instalas o conectas el ARS al PC, necesitas saber qué puerto COM o serie ha sido asignado por Windows.
 
 Visita este enlace que te explicará como saber el puerto y cómo lo puedes cambiar:
-
-https://ea4tx.com/faqs/ars-usb-faqs/ars-usb-comserial-port
+    https://ea4tx.com/faqs/ars-usb-faqs/ars-usb-comserial-port
