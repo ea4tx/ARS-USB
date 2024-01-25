@@ -46,3 +46,12 @@
    
    RoHS
        Restriction of Hazardous Substances in Electrical and Electronic Equipment (Restricción de Sustancias Peligrosas en Equipos Eléctricos y Electrónicos)
+
+   ARS
+      El Antenna Rotator System (ARS) es el nombre que EA4TX utilizó para denominar al sistema de control de motores diseñado en 1996. Actualmente son miles las unidades funcionando por todo el mundo.
+    
+   RCI
+      El RCI (Rotor Control Interface) fue el nombre de la primera placa de control de motores diseñado por EA4TX en 1996 y comercializado hasta 2011.
+
+   RCI-SE
+      El Rotor Control Interface - Second Edition (Interface de Control de Motores - segunda edición) fue ) fue la segunda version del sistemaes el nombre de la primera placa de control de motores diseñado por EA4TX en 1996 y comercializado hasta 2011.
