@@ -14,3 +14,4 @@ Este modelo estuvo operativo 10 años.
 
 .. image:: ../rcise.png
     :width: 35%
+ 

@@ -3,7 +3,7 @@
 
 .. intro:: 
    :sorted:
-
+ 
 El |Product| es el interface de motor universal más completo y posiblemente con mejor rendimiento del mercado. Te permitirá controlar el posicionamiento de tu(s) antena(s) desde el ordenador por medio del puerto USB. 
 
 El ARS es un interface universal, puesto que se puede adaptar a cualquier tipo de motor; el manual de usuario describe el conexionado de éste, con una larga lista de motores soportados.

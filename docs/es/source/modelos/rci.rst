@@ -10,4 +10,4 @@ Se diseña con interface de puerto paralelo ya que los pocos puertos serie que h
 
 .. image:: rci1.png
     :width: 35%
-
+ 

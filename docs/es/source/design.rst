@@ -30,7 +30,7 @@ Esquemas electrónicos
 
 Especificaciones Técnicas
 --------------------------
-
+ 
 Eléctricas
 ^^^^^^^^^^^^
 
