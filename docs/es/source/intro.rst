@@ -1,7 +1,7 @@
 🗒️Introducción
 ================
 
-.. intro:: 
+.. intro::  
    :sorted:
  
 El |Product| es el interface de motor universal más completo y posiblemente con mejor rendimiento del mercado. Te permitirá controlar el posicionamiento de tu(s) antena(s) desde el ordenador por medio del puerto USB.
