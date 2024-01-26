@@ -21,13 +21,7 @@ El |Product| es detectado o visto en el ordenador como un puerto Serie/COM, por 
 Además, el ARS-USB funciona con los mismos comandos/instrucciones que el  :term:`Yaesu GS232A`, lo que hace las cosas más sencillas, puesto que esto tiene la ventaja de que cualquier programa que soporte este modelo de interface, va a funcionar con el ARS-USB.
 
 Actualmene hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo al mando original y 2 para reemplazar el mando:
-<<<<<<< HEAD
-- **ARS-USB para Acimut**: Para controlar un único motor de Acimut.
-- **ARS-USB para Acimut & Elevación**: Para manejar 2 motores: Acimut y Elevación.
-- **Mando ARS-USB_PST**: Versión especial del ARS-USB de Azimuth que sustituye al mando original Prosistel; puede operar con potenciómetros multivuelta o standards. Versión para motores de 12/24Vcc
-- **Mando ARS-USB_Yaesu**: Versión especial del ARS-USB de Azimuth que sustituye cualquier mando original (Yaesu, Kenpro, ...) que opere a 24Vcc con potenciometro. 
 
-=======
     ✅ **ARS-USB para Acimut**: Para controlar un único motor de Acimut.
     ✅ **ARS-USB para Acimut & Elevación**: Para manejar 2 motores: Acimut y Elevación.
     ✅ **Mando ARS-USB_PST**: Versión especial del ARS-USB de Azimuth que sustituye al mando original Prosistel; puede operar con potenciómetros multivuelta o standards. Versión para motores de 12/24Vcc
@@ -43,4 +37,4 @@ Actualmene hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo a
     Ningún motor que funcione por pulsos o encoder - en vez de potenciometro - está soportado! 
 
 ----------
->>>>>>> main
+
