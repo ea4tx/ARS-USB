@@ -34,7 +34,7 @@ Soporte técnico
 -----------------
 
 Si tienes problemas técnicos o no puedes encontrar la información que necesitas en la documentación proporcionada, 
-por favor contáctame directamente:
+puedes contáctarme directamente:
 
 :Autor: |Author|
 :Contacto: |Email|
@@ -60,4 +60,4 @@ por favor contáctame directamente:
    :width: 25
    :target: https://ars-usb.readthedocs.io/en/latest
 
-    
+     
