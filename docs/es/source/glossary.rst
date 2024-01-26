@@ -55,3 +55,4 @@
 
    RCI-SE
       El Rotor Control Interface - Second Edition (Interface de Control de Motores - segunda edición) fue ) fue la segunda version del sistemaes el nombre de la primera placa de control de motores diseñado por EA4TX en 1996 y comercializado hasta 2011.
+ 
