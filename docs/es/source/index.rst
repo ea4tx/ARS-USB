@@ -28,7 +28,7 @@ Contenidos
 :doc:`faq`
     Típicas preguntas y repuestas que te ayudarán a resolver dudas o problemas |faq|.
 
-
+ 
 .. _support:
 Soporte técnico
 -----------------
