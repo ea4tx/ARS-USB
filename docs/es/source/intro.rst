@@ -4,11 +4,11 @@
 .. intro:: 
    :sorted:
  
-El |Product| es el interface de motor universal más completo y posiblemente con mejor rendimiento del mercado. Te permitirá controlar el posicionamiento de tu(s) antena(s) desde el ordenador por medio del puerto USB. 
+El |Product| es el interface de motor universal más completo y posiblemente con mejor rendimiento del mercado. Te permitirá controlar el posicionamiento de tu(s) antena(s) desde el ordenador por medio del puerto USB.
 
 El ARS es un interface universal, puesto que se puede adaptar a cualquier tipo de motor; el manual de usuario describe el conexionado de éste, con una larga lista de motores soportados.
 
-En la zona de  :doc:`descarga`, podrás bajerte los manuales y todo el software disponible.
+En la zona de  :doc:`descarga`, podrás bajarte los manuales y todo el software disponible.
 
 .. image:: images/ars_cad1.png
     :width: 49%
@@ -21,8 +21,26 @@ El |Product| es detectado o visto en el ordenador como un puerto Serie/COM, por 
 Además, el ARS-USB funciona con los mismos comandos/instrucciones que el  :term:`Yaesu GS232A`, lo que hace las cosas más sencillas, puesto que esto tiene la ventaja de que cualquier programa que soporte este modelo de interface, va a funcionar con el ARS-USB.
 
 Actualmene hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo al mando original y 2 para reemplazar el mando:
+<<<<<<< HEAD
 - **ARS-USB para Acimut**: Para controlar un único motor de Acimut.
 - **ARS-USB para Acimut & Elevación**: Para manejar 2 motores: Acimut y Elevación.
 - **Mando ARS-USB_PST**: Versión especial del ARS-USB de Azimuth que sustituye al mando original Prosistel; puede operar con potenciómetros multivuelta o standards. Versión para motores de 12/24Vcc
 - **Mando ARS-USB_Yaesu**: Versión especial del ARS-USB de Azimuth que sustituye cualquier mando original (Yaesu, Kenpro, ...) que opere a 24Vcc con potenciometro. 
 
+=======
+    ✅ **ARS-USB para Acimut**: Para controlar un único motor de Acimut.
+    ✅ **ARS-USB para Acimut & Elevación**: Para manejar 2 motores: Acimut y Elevación.
+    ✅ **Mando ARS-USB_PST**: Versión especial del ARS-USB de Azimuth que sustituye al mando original Prosistel; puede operar con potenciómetros multivuelta o standards. Versión para motores de 12/24Vcc
+    ✅ **Mando ARS-USB_Yaesu**: Versión especial del ARS-USB de Azimuth que sustituye cualquier mando original (Yaesu, Kenpro, ...) que opere a 24Vcc con potenciometro. 
+
+
+.. hint:: 
+    El ARS-USB se puede conectar con practicamente cualquier tipo de motor y la version del ARS-USB_Yaesu se puede conectar con cualquier motor que funcione en corriente continua. 
+
+----------
+
+.. Note:: IMPORTANTE
+    Ningún motor que funcione por pulsos o encoder - en vez de potenciometro - está soportado! 
+
+----------
+>>>>>>> main
