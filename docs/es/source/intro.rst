@@ -28,7 +28,7 @@ Actualmene hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo a
 
 
 .. hint:: 
-    Practicamente el ARS-USB se puede conectar con cualquier tipo de motor y la version del ARS-USB_Yaesu se puede conectar con cualquier motor que funcione en corriente continua. Para 
+    El ARS-USB se puede conectar con practicamente cualquier tipo de motor y la version del ARS-USB_Yaesu se puede conectar con cualquier motor que funcione en corriente continua. 
 
 ----------
 
