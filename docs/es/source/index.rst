@@ -16,7 +16,7 @@ lista de motores soportados.
 
 Para versión en |usflag| haz `CLICK AQUI <https://ars-usb.readthedocs.io/en/latest />`_  - For |usflag| version  `LINK HERE <https://ars-usb.readthedocs.io/en/latest />`_ 
 
-Contenidos
+Contenido
 --------
 
 :doc:`intro`
