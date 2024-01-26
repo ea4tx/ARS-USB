@@ -18,3 +18,4 @@ Puedes descargar los manuales y programas desde los siguientes enlaces:
 .. image:: images/CD-ROM-ARS.png
     :width: 50%
     :align: center  
+

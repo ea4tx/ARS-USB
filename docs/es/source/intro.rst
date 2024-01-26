@@ -15,7 +15,7 @@ En la zona de  :doc:`descarga`, podrás bajarte los manuales y todo el software 
 
 La primera versión del ARS aparece en 1996 e incluía la Tarjeta :doc:`modelos/rci` – placa de interface con el mando del motor. 6 años más tarde, se rediseña la tarjeta y pasa a llamarse: Tarjeta :doc:`modelos/rcise` . 
 Estos dos modelos de interface usaban una conexión con el ordenador por medio de puerto paralelo. En Diciembre de 2011, se presenta la tercera generación del producto: :doc:`modelos/rciusb`, que incluye como extras un puerto USB 2.0.
-Finalmente en el 2014 se reestiliza el ARS-USB y se convierte para el montaje SMD.
+Finalmente en el 2024 se reestiliza el ARS-USB y se convierte para el montaje SMD.
 
 El |Product| es detectado o visto en el ordenador como un puerto Serie/COM, por lo que cualquier programa (seguimiento de satélites, programa de Log, etc) que configure dicho puerto, lo va a poder controlar, sin necesidad de software adicional.
 Además, el ARS-USB funciona con los mismos comandos/instrucciones que el  :term:`Yaesu GS232A`, lo que hace las cosas más sencillas, puesto que esto tiene la ventaja de que cualquier programa que soporte este modelo de interface, va a funcionar con el ARS-USB.
