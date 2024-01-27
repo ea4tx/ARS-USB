@@ -37,3 +37,12 @@ Actualmene hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo a
     Ningún motor que funcione por pulsos o encoder - en vez de potenciometro - está soportado! 
 
 ----------
+
+
+🎓Cómo funciona?
+-------------
+El funcionamiento del ARS-USB es muy sencillo y consta de dos partes:
+
+    - ✅ **Lectura de la posición**: Encargada de leer la tensión proporcionada por el potenciometro y convertirla en Grados.
+    - ✅ **Control del Giro**: Encargada de proporcionar la tensión al motor para que éste gire a derecha o izquierda (Arriba o abajo en los de elevación).
+
