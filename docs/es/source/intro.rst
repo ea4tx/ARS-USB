@@ -13,7 +13,7 @@ En la zona de  :doc:`descarga`, podrás bajarte los manuales y todo el software 
 .. image:: images/ars_cad1.png
     :width: 48%
 
-.. image:: images/ars_cad1.png
+.. image:: images/ars-main.png
     :width: 48%
 
 La primera versión del ARS aparece en 1996 e incluía la Tarjeta :doc:`modelos/rci` – placa de interface con el mando del motor. 6 años más tarde, se rediseña la tarjeta y pasa a llamarse: Tarjeta :doc:`modelos/rcise` . 
