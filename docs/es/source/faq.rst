@@ -12,6 +12,6 @@ Hemos generado varias secciones para facilitar el acceso directo al Area que te 
    faqs/ars
    faqs/arsvcom
    faqs/rspi
-   faqs/otros
+   
 
    
