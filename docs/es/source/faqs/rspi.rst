@@ -1,9 +1,9 @@
-Control Remoto mediante Rasperry Pi o Rock3
+Control Remoto 
 =========
 
 Con el ARS-USB también vas a poder controlar remotamente el motor de antenas. 
 
-Aunque hay varias opciones como dejar el ordenador remoto encendido y usar AnyDesk o Teamviewer para conectarte al ordenador remoto, posiblemente lo más eficaz e interesante sea empleando una Raspberry Pi (RsPi), Rock 3 o miniordenador similar.
+Aunque hay varias opciones como dejar el ordenador remoto encendido y usar AnyDesk o Teamviewer para conectarte al ordenador remoto, posiblemente lo más eficaz e interesante sea empleando una **Raspberry Pi** (RsPi), **Rock 3** o miniordenador similar.
 
 .. Note:: 
     Desde 2020 y debido a los problemas de componentes, conseguir RsPi 3 o 4 se hizo bastante complicado y sobre todo los precios se disparando. 
