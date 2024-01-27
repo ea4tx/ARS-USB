@@ -10,13 +10,14 @@ Puedes descargar los manuales y programas desde los siguientes enlaces:
 .. image:: ./images/descarga.png
     :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
     :alt: Descarga
-    :align: center
+    :align: left
      
     
 .. topic:: Mando ARS-USB_PST
         
     Enlace de Descarga en:
-    .. image:: ./images/descarga.png
+
+.. image:: ./images/descarga.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-pst/
         :alt: Descarga
         :align: left 
@@ -25,10 +26,11 @@ Puedes descargar los manuales y programas desde los siguientes enlaces:
 .. topic:: Mando ARS-USB_Yaesu
     
     Enlace de Descarga en:
-        .. image:: ./images/descarga.png
-            :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-yaesu/
-            :alt: Descarga
-            :align: left 
+
+.. image:: ./images/descarga.png
+    :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-yaesu/
+    :alt: Descarga
+    :align: left 
 
 
 
