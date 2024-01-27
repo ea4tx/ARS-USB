@@ -11,7 +11,10 @@ El ARS es un interface universal, puesto que se puede adaptar a cualquier tipo d
 En la zona de  :doc:`descarga`, podrás bajarte los manuales y todo el software disponible.
 
 .. image:: images/ars_cad1.png
-    :width: 49%
+    :width: 48%
+
+.. image:: images/ars_cad1.png
+    :width: 48%
 
 La primera versión del ARS aparece en 1996 e incluía la Tarjeta :doc:`modelos/rci` – placa de interface con el mando del motor. 6 años más tarde, se rediseña la tarjeta y pasa a llamarse: Tarjeta :doc:`modelos/rcise` . 
 Estos dos modelos de interface usaban una conexión con el ordenador por medio de puerto paralelo. En Diciembre de 2011, se presenta la tercera generación del producto: :doc:`modelos/rciusb`, que incluye como extras un puerto USB 2.0.
