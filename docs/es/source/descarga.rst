@@ -5,7 +5,13 @@ Puedes descargar los manuales y programas desde los siguientes enlaces:
 
 .. topic:: ARS-USB para Acimut o Acimuth y Elevación
              
-    Enlace de Descarga en https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
+    Enlace de Descarga en:
+    
+.. image:: ./images/descarga.png
+    :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
+    :alt: Descarga
+    :align: center
+     
     
 .. topic:: Mando ARS-USB_PST
         
