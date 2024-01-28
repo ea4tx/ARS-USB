@@ -1,47 +1,37 @@
-ElectroLab
+EA4TX ARS-USB
 ###############
+
 
 .. raw:: html
         
     <iframe src="_static/carousel.html" style="width: 100%; height: 300px; border: none;"></iframe>
 
+¡Welcome to the documentation page of the |Product|!
 
-Welcome to the documentation page of the |Product|, an electronic trainer designed for educational purposes.
-It should be considered as a beginner-friendly guided solution for learning practical electronics
-where no prior knowledge is required.
+The ARS-USB is the most comprehensive and high-performance universal motor interface on the market. It will allow you to control the positioning of your antennas from the computer through the USB port.
 
-With its big set of integrated components, the ElectroLab offers a very powerful and versatile platform for building up your electronic circuits
-in very few steps.
+The ARS is a universal interface since it can be adapted to any type of motor; the user manual describes its connection, with a long list of supported motors.
 
+Para version en |esflag|, Haz click AQUI <https://ars-usb.readthedocs.io/es/latest />_.
 
 Contents
---------
+------------
 
 :doc:`intro`
-    Introduction to the |Product|.
+    Introduction of the |Product|.
 
-:doc:`safety`
-    How to operate and manipulate the |Product|.
+:doc:`download`
+    Download area for manuals and software for the ARS-USB.
 
-:doc:`getting_started`
-    First steps for starting with the |Product|.
-
-:doc:`assembly`
-    Get to know how to prepare your |Product|.
-
-:doc:`examples`
-    Example circuits ready to deploy on the |Product|.
-
-:doc:`design`
-    Design files of the |Product|.
+:doc:`faq`
+    Typical questions and answers that will help you solve doubts or problems |faq|.
 
 
 .. _support:
-Technical support
+Technical Support
 -----------------
 
-If you have technical problems or cannot find the information that you need in the provided documentation, 
-please contact me directly:
+If you have technical problems or cannot find the information you need in the provided documentation, you can contact me directly:
 
 :Author: |Author|
 :Contact: |Email|
@@ -50,17 +40,16 @@ please contact me directly:
 :Version: |Version|
 :Date: |Date|
 
-
 .. toctree::
-   :maxdepth: 2
-   :hidden:
+:maxdepth: 2
+:hidden:
 
-   intro
-   safety   
-   getting_started
-   assembly
-   examples 
-   components
-   design   
-   glossary
-   faq   
+intro
+download
+faq
+glossary
+
+.. |esflag| image:: ./flag-es.png
+:height: 20
+:width: 25
+:target: https://ars-usb.readthedocs.io/es/latest
