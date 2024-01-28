@@ -1,16 +1,16 @@
-Integración con otros programas
+Integration with Other Programs
 ===============================
 
-Una vez conectado el ARS-USB con el ordenador, Windows crea y asigna un puerto serie por el que se puede comunicar cualquier programa. 
+Once the ARS-USB is connected to the computer, Windows creates and assigns a serial port through which any program can communicate.
 
 .. Note:: 
-    Recuerda que el ARS-USB es compatible con el interface Yaesu GS232A, y por ese puerto serie la comunicación ha de usar ese protocolo GS232A.
-    Pero si usas el ARSVCOM ese puerto serie queda ocupado por el ARSVCOM, pero puedes crear un puerto Virtual por medio del ARSVCOM que podrá ser empleado por otros programas.
+    Remember that the ARS-USB is compatible with the Yaesu GS232A interface, and communication through that serial port must use the GS232A protocol.
+    However, if you use ARSVCOM, that serial port is occupied by ARSVCOM, but you can create a virtual port through ARSVCOM that can be used by other programs.
 
 ----------
 
-Y por medio de ese puerto Virtual que crea el ARSVCOM, otros programas se pueden comunicar. Además el ARSVCOM es capaz de emular otros protocolos además del GS232A.
+And through that virtual port created by ARSVCOM, other programs can communicate. Additionally, ARSVCOM is capable of emulating other protocols besides GS232A.
 
-Para LEER el articulo completo sigue este enlace:  
+To READ the full article, follow this link:
     https://ea4tx.com/faqs/arsvcom-faqs/interface-with-other-programs/
 

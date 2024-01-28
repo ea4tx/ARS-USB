@@ -1,9 +1,9 @@
 💬 :term:`FAQs`
 =============================
 
-Estas son las típicas preguntas que me suelen hacer a menudo. Si tienes otras preguntas o algún comentario a las respuestas, envíamelas por correo. 
+These are the typical questions that I am often asked. If you have other questions or any comments on the answers, please send them to me by email.
 
-Hemos generado varias secciones para facilitar el acceso directo al Area que te interese
+We have created several sections to facilitate direct access to the area you are interested in.
 
 .. toctree::
    :maxdepth: 3

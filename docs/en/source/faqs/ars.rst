@@ -1,7 +1,7 @@
 ARS-USB
 =========
 
-Típicas preguntas y respuestas sobre el ARS-USB 
+Typical questions and answers about the ARS-USB
 
 
 .. toctree::

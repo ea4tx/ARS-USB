@@ -1,15 +1,13 @@
-ARS-USB y el Control remoto
+ARS-USB and Remote Control
 ============================
 
-Una excelente opción para el control remoto del motor por medio del ARS-USB, sin necesidad de tener que dejar un ordenador de sobremesa las 24h encendidas, es por medio de una Raspberry Pi, Rock3 o equipo similar.
+An excellent option for remote control of the motor through the ARS-USB, without the need to keep a desktop computer on 24 hours a day, is through a Raspberry Pi, Rock3, or similar device.
 
-Te sugiero que visites este enlace donde se explica la puesta en marcha en detalle
-    `https://ea4tx.com/faqs/remote-antenna-control <https://ea4tx.com/faqs/remote-antenna-control/>`_
-
+I suggest you visit this link where the setup is explained in detail
+    https://ea4tx.com/faqs/remote-antenna-control
 
 .. figure:: ../../images/arsvcom.png
     :align: center
     :width: 50%
-
-    Ejemplo control de motor remoto
+    Remote rotator Control Example
 

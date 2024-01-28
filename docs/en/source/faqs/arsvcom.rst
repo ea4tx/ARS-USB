@@ -1,7 +1,7 @@
 ARSVCOM
 =========
 
-Vamos a ver las respuestas para algunas de las típicas preguntas que a veces nos hacen.
+Let's see the answers to some of the typical questions that we are sometimes asked.
 
 .. toctree::
    :maxdepth: 2

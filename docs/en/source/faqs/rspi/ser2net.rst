@@ -1,9 +1,9 @@
 ser2net
 =========
 
-El ser2net es un servicio desarrollado por Corey AE5KM y que pemite que un puerto serie, sea accesible por medio de una conexión TCP. Además, permite multiples conexiones, de forma que varios accesos TCP/IP puedan tener accso al mismo puerto serie.
+Ser2net is a service developed by Corey AE5KM that allows a serial port to be accessible through a TCP connection. Additionally, it allows multiple connections, so that several TCP/IP accesses can have access to the same serial port.
 
-Visita este enlace donde se explica la puesta en marcha de este servicio ser2net:
+Visit this link where the setup of ser2net service is explained:
     https://ea4tx.com/faqs/rspi/ser2net/
 
 

@@ -1,80 +1,79 @@
-Puedo sustituir mi mando por un ARS?
+Can I replace my controller with an ARS?
 =========
 
-Si, si que puedes.
+Yes, you can.
 
-El ARS-USB se diseñó inicialmente para ser conectado al mando original del motor, pero se puede sustituir sin mayores problemas. En el CD-ROM o software de descarga, se incluyen varios esquemas de conexionado a modo de ejemplo. Lo que es importante y hay que tener en cuenta, es que la mayor parte de motores funcionan a 24V, luego vas a necesitar una fuente de alimentación para poder mover el motor. 
+The ARS-USB was initially designed to be connected to the original controller of the motor, but it can be replaced without major issues. Several wiring diagrams are included in the CD-ROM or download software as examples. What is important to note is that most motors operate at 24V, so you will need a power supply to move the motor.
 
-Otro detalle, es que algunos motores que funcionan a corriente alterna, emplean un condensador para el arranque y éste suele estar dentro del mando. Al reemplazar el mando original por un ARS-USB, tendrás que poner uno. Este en el caso por ejemplo del HAMIV o T2X.
+Another detail is that some motors that operate on alternating current use a capacitor for starting, and this capacitor is usually inside the controller. When replacing the original controller with an ARS-USB, you will need to add one. This is the case, for example, with the HAMIV or T2X.
 
-Otra opción es usar el ARS-USB_Yaesu o ARS-USB_PST, pues esos modelos ya están preparados para conectarse con el motor directamente.
+Another option is to use the ARS-USB_Yaesu or ARS-USB_PST, as these models are already prepared to be connected directly to the motor.
 
-Mandos ARS-USB
+ARS-USB Controllers
 ===============
 
-Desde el año 2020 existen 2 nuevos modelos de ARS-USB que permiten sustituir el mando original por estos nuevos controladores:
+Since 2020, there have been 2 new models of ARS-USB that allow you to replace the original controller with these new controllers:
 
- - **ARS-USB_Yaesu:** y que sirve para reemplazar el mando Yaesu en modelos que funcionan a 24Vcc como son: G800, G1000, G2800 o el nuevo G450ADC. Tambien se puede usar para cualquier otro motor que funcione a 24Vcc e incluye todo lo necesario para conectarse y manejar el motor.
- - **ARS-USB_PST:** y que sirve para reemplazar el mando Prosistel de la serie B y D que emplean potenciometro multivuelta y que funcionan a 12 o 24Vcc. Tambien es válido para cualquier motor que emplee potenciometro multivuelta.
+ - **ARS-USB_Yaesu:** This model is used to replace the Yaesu controller in models that operate at 24Vdc, such as: G800, G1000, G2800, or the new G450ADC. It can also be used for any other motor operating at 24Vdc and includes everything needed to connect and operate the motor.
+ - **ARS-USB_PST:** This model is used to replace the Prosistel controller from the B and D series, which use a multi-turn potentiometer and operate at 12 or 24Vdc. It is also valid for any motor that uses a multi-turn potentiometer.
 
-Algún relé parece que no funciona
+Some relay seems not to work
 =================================
 
-Muchas veces recibo un correo de un cliente nuevo que me dice que uno de los relés no funciona.
-El ARS-USB incluye un mecanismo de protección, para evitar que en algunas situaciones, los relés no se puedan activar. 
-Por ejemplo si el ARS lee 0 (o el valor del ADC es el limite izquierdo) entonces el ARS evita e inhibe que el relé de giro a izquierda se pueda activar.
+Many times I receive an email from a new customer saying that one of the relays is not working. The ARS-USB includes a protection mechanism to prevent situations where the relays cannot be activated. For example, if the ARS reads 0 (or the ADC value is the left limit), then the ARS prevents and inhibits the left-turn relay from being activated.
 
-En este enlace se explica el motivo y el por qué:
+This link explains the reason and why:
     https://ea4tx.com/faqs/ars-usb-faqs/some-relay-is-not-working/
 
 
-Reasignar el puerto COM en Windows
+Reassigning the COM port in Windows
 =================================
 
-La primera vez que instalas o conectas el ARS al ordenador, necesitarás saber qué puerto COM o serie ha sido asignado por Windows.
+The first time you install or connect the ARS to the computer, you will need to know which COM or serial port has been assigned by Windows.
 
-Visita este enlace que te explicará como saber el puerto y cómo lo puedes cambiar:
+Visit this link that will explain how to find the port and how you can change it:
     https://ea4tx.com/faqs/ars-usb-faqs/ars-usb-comserial-port
+    
 
-
-Está mi motor soportado?
+Is my rotator supported?
 ========================
 
-Prácticamente todos los motores que incluyen un potenciómetro (POT) en el motor – sean comerciales o autoconstruídos – están soportados.
+Practically all motors that include a potentiometer (POT) in the motor – whether commercial or self-built – are supported.
 
-El ARS-USB incluye un conversor ADC y por medio de éste se convierte la tensión que llega al mando desde el POT en un valor digital. Gracias al calibrado, el ARS-USB emplea esta tensión de lectura como la referencia en la que se encuentra el motor. También se pueden usar motores de elevación que no incluyan potenciómetro, por ejemplo usando actuadores de parabólica; para ello tenemos que poner un inclinómetro digital como los que ofrecemos en la Tienda.
+The ARS-USB includes an ADC converter, and through this, the voltage reaching the controller from the POT is converted into a digital value. Thanks to calibration, the ARS-USB uses this reading voltage as the reference where the motor is located. Motors without potentiometers can also be used, for example, using satellite dish actuators; for this, we need to add a digital inclinometer like the ones we offer in the Store.
 
-Gracias a este tipo de inclinómetro, podemos leer desde el ARS una tensión que será proporcional a la inclinación que tengamos.
+Thanks to this type of inclinometer, we can read from the ARS a voltage that will be proportional to the inclination we have.
 
-**Nota:** Motores que usan pulsos o encoders para determinar su posición, no están soportados
+**Note:** Rottors that use pulses or encoders to determine their position are not supported
 
-Cómo puedo controlar el ARS-USB desde el ordenador?
+How can I control the ARS-USB from the computer?
 ===================================================
 
-Puedes utilizar cualquier programa que sea capaz de controlar el interface de Yaesu GS232A.
+You can use any program capable of controlling the Yaesu GS232A interface.
 
-Esto es así, porque el ARS-USB es compatible con los comandos de Yaesu. Algunos ejemplos los puedes ver siguiendo este enlace:
+This is because the ARS-USB is compatible with Yaesu commands. You can see some examples by following this link:
     https://ea4tx.com/faqs/ars-usb-faqs/ars-usb-3rd-programs-setup/
 
-Además recuerda que se incluye el programa **ARSVCOM** y que por medio de este programa podemos además crear un puerto virtual y emular otros modelos de motor, ampliando las opciones de poder ser controlado ya, por cualquier programa.
+Also, remember that the program **ARSVCOM** is included, and through this program, we can also create a virtual port and emulate other motor models, expanding the options for it to be controlled by any program.
 
-Cómo activar el modo *Modo Absoluto* en el ARS-USB
+How to activate Absolute Mode on the ARS-USB
 ====================================================
 
-El modo absoluto se activa al arrancar el ARS-USB mientras se presionada el botón **F2**. 
+Absolute mode is activated when starting the ARS-USB while pressing the **F2** button.
 
-Al activar este modo en el arranque, el LCD va a visualizar el mensaje:
+By activating this mode at startup, the LCD will display the message:
     **MODE ABSOLUTE ON**
 
-Con el modo absoluto activado, el visor del ARS-USB nos va a mostrar entre paréntesis la posición del conversor ADC. Ejemplo para el modelo de Azimuth & Elevación:
-	AZ: 180º   (0)
-	EL:  90º   (512)
-El microprocesador incluye un conversor ADC de 10 bits por entrada (Az y Elev), que permite leer un valor digital entre 0-1022. 
-En ciertos casos puede ser interesante saber qué valor tiene el conversor ADC, y esta es una de las formas de saberlo (Hay otra que es por comandos en el puerto serie).
+With absolute mode activated, the ARS-USB display will show the ADC converter's position in parentheses. Example for the Azimuth & Elevation model:
+    AZ: 180º (0)
+    EL: 90º (512)
 
-Por otro lado, en los modelo donde el ARS-USB hace de mando/controlador (ARS-USB_Yaesu y ARS-USB_PST) con el **Modo Absoluto** activado, podemos girar sin límites. Es decir, el modo absoluto desactiva el supervidor de finales de carrera con lo cual podemos girar libremente el motor.
+The microprocessor includes a 10-bit ADC converter per input (Az and Elev), which allows reading a digital value between 0-1022.
+In certain cases, it may be interesting to know what value the ADC converter has, and this is one way to find out (there is another way through commands in the serial port).
 
-Configuración de fábrica (F3+F4)
+On the other hand, in models where the ARS-USB acts as a controller (ARS-USB_Yaesu and ARS-USB_PST) with **Absolute Mode** activated, we can rotate without limits. That is, absolute mode disables the end-of-travel sensor supervisor, so we can freely rotate the motor.
+
+Factory Configuration (F3+F4)
 ===================================
 
-Hay veces que nos puede interesar cargar la configuración por defecto. Se consigue encendiendo el ARS-USB y presionando los botones F3 y F4 simultáneamente.
+There are times when it may be useful to load the default configuration. This is achieved by turning on the ARS-USB and pressing the F3 and F4 buttons simultaneously.

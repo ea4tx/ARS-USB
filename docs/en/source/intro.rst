@@ -27,8 +27,8 @@ Currently, there are 4 models available, 2 that serve to connect in parallel to 
 
     - ✅ **ARS-USB para Acimut**: To control a single Azimuth motor.
     - ✅ **ARS-USB para Acimut & Elevación**: To handle 2 motors: Azimuth and Elevation.
-    - ✅ **Mando ARS-USB_PST**: Special version of the ARS-USB for Azimuth that replaces the original Prosistel controller; it can operate with multi-turn or standard potentiometers. Version for 12/24Vdc motors.
-    - ✅ **Mando ARS-USB_Yaesu**: Special version of the ARS-USB for Azimuth that replaces any original controller (Yaesu, Kenpro, ...) operating at 24Vdc with a potentiometer.
+    - ✅ **ARS-USB_PST Controller**: Special version of the ARS-USB for Azimuth that replaces the original Prosistel controller; it can operate with multi-turn or standard potentiometers. Version for 12/24Vdc motors.
+    - ✅ **ARS-USB_Yaesu Controller**: Special version of the ARS-USB for Azimuth that replaces any original controller (Yaesu, Kenpro, ...) operating at 24Vdc with a potentiometer.
 
 
 .. hint:: 

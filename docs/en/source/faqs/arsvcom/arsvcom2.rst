@@ -1,23 +1,23 @@
-Velocidad
+Rotator Speed
 =========
 
-Con el ARS-USB se puede controlar la velocidad en algunos modelos de motor, pero hay que diferenciar los siguientes casos:
+With the ARS-USB, you can control the speed in some rotator models, but it's important to differentiate between the following cases:
 
-    - ARS-USB conectado al mando original del motor
-    - ARS-USB que funciona como controlador o mando del motor
+    - ARS-USB connected to the original motor controller
+    - ARS-USB functioning as the controller or motor controller itself
 
-La versión actual del ARSVCOM puede funcionar con un ARS-USB, sea por medio de un puerto serie (USB) o en remoto vía TCP/IP.
+The current version of ARSVCOM can work with an ARS-USB, either through a serial port (USB) or remotely via TCP/IP.
 
-.. topic:: ARS-USB conectado a un mando
+.. topic:: ARS-USB connected to a controller
 
-    En este caso, si el mando está preparado para girar a 2 velocidades, como puede ser el caso de algunos mandos Yaesu (p.e. DXA/DXC) por medio de un pin se puede manejar esa velocidad (Alta/Baja). 
-    El ARS para controlar ese pin emplea el rele AUX y que siguiendo el conexionado previsto para esos mandos, y activando por software la opcion de control de velocidad, lo hace de forma automática.
+    In this case, if the controller is designed to rotate at 2 speeds, as may be the case with some Yaesu controllers (e.g., DXA/DXC), this can be managed through a pin to switch between High/Low speeds.
+    The ARS, to control this pin, uses the AUX relay, following the expected wiring for these controllers, and by activating the speed control option in the software, it does so automatically.
 
-.. topic:: ARS-USB como controlador
+.. topic:: ARS-USB as a controller
 
-    Cuando se utiliza el mando ARS-USB_Yaesu o ARS-USB_PST el ARS, para controlar la velocidad del motor se ha de activar en el software (Menu avanzado) la opción PWM. Está opción hace que el controlador ARS-USB genere unos pulsos que permiten que el arranque y parada del motor se realice de forma progresiva y automática para el usuario. 
-    Esto se puede hacer con cualquier motor tipo corriente continua (no importa la tensión de funcionamiento: 12, 24, 48V)
-
+    When using the ARS-USB_Yaesu or ARS-USB_PST controller, to control the motor speed, the PWM (Pulse Width Modulation) option must be activated in the software (Advanced Menu). This option causes the ARS-USB controller to generate pulses that allow the motor to start and stop progressively and automatically for the user.
+    This can be done with any type of direct current motor (regardless of the operating voltage: 12, 24, 48V).
+    
 .. figure:: ../../images/ars-speed.png
     :align: center
     :width: 50%

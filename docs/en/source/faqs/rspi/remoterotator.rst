@@ -1,9 +1,9 @@
 remoteRotator
 =========
 
-remoteRotator es un programa de código abierto para múltiples pataformas (en este tutorial usaremos un miniordenador tipo Rock) desarrollado por Tobi DH1TW que proporciona un interface WEB al control del ARS. Desde octubre 2023, la conexión entre este programa y el ARS-USB puede ser tipo TCP/IP u es la opción que sugiero usar. Por un lado se instalará el servicio ser2net y cuando el acceso al puerto definido (p.e. 6001) esté operativo, seguir con la instalación que se explica a continuación.
+remoteRotator is an open-source program for multiple platforms (in this tutorial, we'll use a Rock-type mini-computer) developed by Tobi DH1TW, which provides a web interface to control the ARS. Since October 2023, the connection between this program and the ARS-USB can be TCP/IP, which is the suggested option to use. On one hand, the ser2net service will be installed, and when access to the defined port (e.g., 6001) is operational, continue with the installation as explained below.
 
-Visita este enlace donde se explica la puesta en marcha de este servicio remoteRotator:
+Visit this link where the setup of remoteRotator service is explained:
     https://ea4tx.com/faqs/rspi/remoterotator/
 
 .. figure:: ./remoterotator.png

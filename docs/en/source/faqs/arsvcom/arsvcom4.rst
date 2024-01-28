@@ -1,12 +1,12 @@
 Offsets
 =========
 
-El ARS-USB funciona como un voltímetro, es decir que si un motor gira 360º y al potenciometro se alimenta a 5V, lo normal y predecible es que a mitad de giro (180º) la lectura de tensión sea de 2,5V
+The ARS-USB functions as a voltmeter, meaning that if a motor rotates 360º and the potentiometer is powered at 5V, it's normal and predictable for the voltage reading to be 2.5V at the halfway point (180º).
 
-Pero en algunos modelos de motor, esto no es así, con lo cual los calculos del ARS-USB no son correctos.
+However, in some motor models, this is not the case, causing the ARS-USB calculations to be incorrect.
 
-Debido a esto, el software del ARS-USB tiene la posibilidad de poder aplicar correcciones de forma que permita corregir esto. Para ello vamos a utilizar una opción denominada **Offset**. 
+Due to this, the ARS-USB software has the option to apply corrections to correct this issue. We can use an option called **Offset** for this purpose.
 
-Para LEER el articulo completo pulsa en este enlace:  
+To READ the full article, click on this link:
     https://ea4tx.com/faqs/arsvcom-faqs/arsvcom-offsets/
 
