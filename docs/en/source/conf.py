@@ -26,11 +26,13 @@ author = 'Pablo EA4TX'
 email = 'ea4tx@ea4tx.com'
 
 release = '1'
-version = '3'
+version = '1'
+
 
 today = date.today()
 # compile_date = today.strftime("%B %d, %Y")
-compile_date = format_date(today, format='long', locale='en')
+compile_date = format_date(today, format='long', locale='es')
+
 
 rst_epilog  = """
 .. |Product| replace:: %s
