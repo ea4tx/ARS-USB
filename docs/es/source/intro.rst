@@ -36,7 +36,7 @@ Actualmene hay 4 modelos disponibles, 2 que sirven para conectarse en paralelo a
 
 ----------
 
-.. Note:: **IMPORTANTE:**
+.. warning:: **IMPORTANTE:**
     Ningún motor que funcione por pulsos o encoder - en vez de potenciometro - está soportado! 
 
 ----------
