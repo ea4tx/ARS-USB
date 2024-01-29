@@ -4,10 +4,9 @@ RCI - Second Edition
 .. rcise:: 
    :sorted:
 
-Segunda edición de la popular RCI que tanto éxito estaba teniendo. Se integra en un único PCB tanto el sistema de control de Acimut como de Elevación, mejorando la calidad de diseño y el ajuste o calibración.
+The second edition of the popular RCI, which was enjoying great success. Both the Azimuth and Elevation control systems are integrated into a single PCB, improving the design quality and adjustment or calibration.
 
-Este modelo estuvo operativo entre 2002 y 2011.
-
+This model was operational between 2002 and 2011.
 
 .. image:: ./rcise.png
     :width: 35%
