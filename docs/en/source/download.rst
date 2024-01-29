@@ -5,7 +5,7 @@ You can download the manuals and programs from the following links:
 
 .. topic:: ARS-USB for Azimuth or Azimuth & Elevation
              
-    Download link at:
+    Download the manual and software for ARS-USB for **Azimuth** or **Azimuth & Elevation**:
 
 .. image:: ./images/download.png
     :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
@@ -15,7 +15,7 @@ You can download the manuals and programs from the following links:
     
 .. topic:: ARS-USB_PST Controller
         
-    Download link at:
+    Download the manual and software for ARS-USB_PST Controller:
 
 .. image:: ./images/download.png
     :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-pst/
@@ -25,7 +25,7 @@ You can download the manuals and programs from the following links:
     
 .. topic:: ARS-USB_Yaesu Controller
     
-    Download link at:
+    Download the manual and software for ARS-USB_Yaesu Controller:
 
 .. image:: ./images/download.png
     :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-yaesu/
@@ -36,4 +36,4 @@ You can download the manuals and programs from the following links:
 
 .. image:: images/CD-ROM-ARS.png
     :width: 30%
-    :align: center  
+    :align: left  
