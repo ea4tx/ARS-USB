@@ -8,7 +8,7 @@ The |Product| is the most comprehensive and possibly highest-performing universa
 
 The ARS is a universal interface, as it can be adapted to any type of motor; the user manual describes its connection, with a long list of supported motors.
 
-In the :doc:download area, you can download the manuals and all available software.
+In the :doc:`download` area, you can download the manuals and all available software.
 
 .. image:: images/ars_cad1.png
     :width: 48%
@@ -16,8 +16,8 @@ In the :doc:download area, you can download the manuals and all available softwa
 .. image:: images/ars-main.png
     :width: 48%
 
-The first version of the ARS appeared in 1996 and included the :doc:models/rci Card – a motor control interface board. Six years later, the card was redesigned and renamed: :doc:models/rcise Card.
-These two interface models used a connection with the computer through the parallel port. In December 2011, the third generation of the product was introduced: :doc:models/rciusb, which includes a USB 2.0 port as an extra feature.
+The first version of the ARS appeared in 1996 and included the :doc:`models/rci` – a motor control interface board. Six years later, the card was redesigned and renamed: :doc:`models/rcise Card`.
+These two interface models used a connection with the computer through the parallel port. In December 2011, the third generation of the product was introduced: :doc:`models/rciusb`, which includes a USB 2.0 port as an extra feature.
 Finally, in 2024, the ARS-USB was restyled and converted for SMD mounting.
 
 The |Product| is detected or seen on the computer as a Serial/COM port, so any program (satellite tracking, Log program, etc.) that configures such a port will be able to control it, without the need for additional software.
