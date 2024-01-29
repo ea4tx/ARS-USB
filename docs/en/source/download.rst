@@ -7,7 +7,7 @@ You can download the manuals and programs from the following links:
              
     Download link at:
 
-.. image:: ./images/descarga.png
+.. image:: ./images/download.png
     :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
     :alt: Download
     :align: center
@@ -17,7 +17,7 @@ You can download the manuals and programs from the following links:
         
     Download link at:
 
-.. image:: ./images/descarga.png
+.. image:: ./images/download.png
     :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-pst/
     :alt: Download
     :align: center 
@@ -27,7 +27,7 @@ You can download the manuals and programs from the following links:
     
     Download link at:
 
-.. image:: ./images/descarga.png
+.. image:: ./images/download.png
     :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-yaesu/
     :alt: Download
     :align: center 
