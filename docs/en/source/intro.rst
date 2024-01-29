@@ -13,7 +13,7 @@ In the :doc:download area, you can download the manuals and all available softwa
 .. image:: images/ars_cad1.png
     :width: 48%
 
-.. image:: images/ars-ars-main.jpg
+.. image:: images/ars-main.jpg
     :width: 48%
 
 The first version of the ARS appeared in 1996 and included the :doc:models/rci Card – a motor control interface board. Six years later, the card was redesigned and renamed: :doc:models/rcise Card.
