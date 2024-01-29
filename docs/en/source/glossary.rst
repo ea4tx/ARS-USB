@@ -1,58 +1,55 @@
-📚 Acrónimos
+📚 Acronym
 ============
 
 .. glossary:: 
    :sorted:
    
    GND
-       Ground (Tierra/masa)
+       Ground
 
    PCB
-       Printed Circuit Board (Placa de circuito impresa)
+       Printed Circuit Board
 
    PWM
-       Pulse-width Modulation (Modulación por ancho de pulso). Se usa en algunos modelos para permitir controlar la velocidad del motor
+       Pulse-width Modulation. Used on some models to allow rotator speed control
 
    Yaesu GS232A
-       Interface para control de motores (diseñado por Yaesu para algunos de sus motores) y que su  :term:`API` o comandos de control han sido adoptado universalmente por otros fabricantes de interface.
-       Es el ejemplo del ARS-USB que en vez de definir su porpio interface, ha optado por incorporar esos comandos haciendolo compatible 100% con los programas que soportan el GS232A
-
-   Op.Amp.
-       Operational Amplifier (Amplificado operacional)
-
+       Interface for rotor control (designed by Yaesu for some of its rotators) and its :term:`API` or control commands have been universally adopted by other interface manufacturers.
+       This is the example of the ARS-USB that, instead of defining its own interface, has chosen to incorporate those commands, making it 100% compatible with the programs that support the GS232A.
+   
    FAQ
-       Frequently Answered Questions (Preguntas frecuentemente respondidas)
+       Frequently Answered Questions 
 
    LED
-       Light Emitting Diode (Diodo emisor de luz)
+       Light Emitting Diode
 
    ESD
-       Electrostatic Discharge (Descarga Electroestática)
+       Electrostatic Discharge
 
    SMD
-       Surface-mounted device (Dispositivo montado en superficie)
+       Surface-mounted device
 
    SMT
-       Surface-mount Technology (Tecnología de montaje superficial)
+       Surface-mount Technology
 
    THT
-       Through Hole Technology (Tecnología de Montaje a Través de Orificios)
+       Through Hole Technology 
 
    ADC
-       Analog-Digital Converter (Convertidor Analógico-Digital)
+       Analog-Digital Converter. The ARS-USB uses the microprocessor ADC to read the voltage feedback of the motor (potentiometer)
     
    API 
-       Application Program Interface (Interface de programación de Aplicación). En nuestro caso, se corresponde con los comandos de programación para mandar instrucciones para controlar el ARS-USB.
+       Application Program Interface. In our case, it corresponds to the programming commands to send instructions to control the ARS-USB.
    
    RoHS
-       Restriction of Hazardous Substances in Electrical and Electronic Equipment (Restricción de Sustancias Peligrosas en Equipos Eléctricos y Electrónicos)
+       Restriction of Hazardous Substances in Electrical and Electronic Equipment
 
    ARS
-      El Antenna Rotator System (ARS) es el nombre que EA4TX utilizó para denominar al sistema de control de motores diseñado en 1996. Actualmente son miles las unidades funcionando por todo el mundo.
+      The Antenna Rotator System (ARS) is the name that EA4TX used to refer to the motor control system designed in 1996. There are currently thousands of units operating around the world.
     
    RCI
-      El RCI (Rotor Control Interface) fue el nombre de la primera placa de control de motores diseñado por EA4TX en 1996 y comercializado hasta 2011.
+      The RCI (Rotor Control Interface) was the name of the first motor control board designed by EA4TX in 1996 and marketed until 2011.
 
    RCI-SE
-      El Rotor Control Interface - Second Edition (Interface de Control de Motores - segunda edición) fue ) fue la segunda version del sistemaes el nombre de la primera placa de control de motores diseñado por EA4TX en 1996 y comercializado hasta 2011.
+      The Rotor Control Interface - Second Edition was the second version of the system, the name of the first motor control board designed by EA4TX in 1996 and marketed until 2011.
  
