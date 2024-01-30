@@ -1,34 +1,37 @@
 ⤵ Descarga
 ================
 
+.. intro::  
+   :sorted:
+
 Puedes descargar los manuales y programas desde los siguientes enlaces:
 
-    ARS-USB para Acimut o Acimuth y Elevación
-    =========================================
+ARS-USB para Acimut o Acimuth y Elevación
+=========================================
 
-        Enlace de Descarga en:
+    Enlace de Descarga en:
 
-    .. image:: ./images/descarga.png
+.. image:: ./images/descarga.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
         :alt: Descarga
         :align: center
      
     
-    Mando ARS-USB_PST
-    =================
+Mando ARS-USB_PST
+=================
         
-        Enlace de Descarga en:
+    Enlace de Descarga en:
 
-    .. image:: ./images/descarga.png
+.. image:: ./images/descarga.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-pst/
         :alt: Descarga
         :align: center 
     
+   
+Mando ARS-USB_Yaesu
+===================
     
-    Mando ARS-USB_Yaesu
-    ===================
-    
-        Enlace de Descarga en:
+    Enlace de Descarga en:
 
     .. image:: ./images/descarga.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-yaesu/
