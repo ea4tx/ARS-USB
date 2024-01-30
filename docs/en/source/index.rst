@@ -26,7 +26,10 @@ Content
 :doc:`faq`
     Typical questions and answers that will help you solve doubts or problems |faq|.
 
- 
+:doc:`spanish`
+    |esflag|.
+
+
 .. _support:
 Technical Support
 -----------------
@@ -51,7 +54,7 @@ If you have technical problems or cannot find the information you need in the pr
    download
    faq         
    glossary
-   |esflag|
+   spanish
    
 
 .. |esflag| image:: /images/flags/flag-es.png
