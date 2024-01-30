@@ -27,7 +27,7 @@ Content
     Typical questions and answers that will help you solve doubts or problems |faq|.
 
 :doc:`spanish`
-    |esflag|.
+    Para Versión en Español, `CLICK AQUI <https://ars-usb.readthedocs.io/es/latest />`_  |esflag|
 
 
 .. _support:
