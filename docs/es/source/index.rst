@@ -28,6 +28,8 @@ Contenido
 :doc:`faq`
     Típicas preguntas y repuestas que te ayudarán a resolver dudas o problemas |faq|.
 
+:doc:`ingles`
+    To access the Spanish Version, , `CLICK HERE <https://ars-usb.readthedocs.io/en/latest />`_  |enflag|
  
 .. _support:
 Soporte técnico
@@ -53,6 +55,7 @@ puedes contáctarme directamente:
    descarga
    faq         
    glossary
+   ingles
    
 
 .. |usflag| image:: images/flags/flag-en.png
