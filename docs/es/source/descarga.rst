@@ -7,9 +7,9 @@ Puedes descargar los manuales y programas para los diferentes modelos de ARS.
    :maxdepth: 3
    :numbered:
 
-   descaraga/descarga1
-   descaraga/descarga2
-   descaraga/descarga3
+   descarga/descarga1
+   descarga/descarga2
+   descarga/descarga3
    
 
 
