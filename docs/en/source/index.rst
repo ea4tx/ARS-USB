@@ -45,7 +45,6 @@ If you have technical problems or cannot find the information you need in the pr
 :Date: |Date|
 
 
-
 .. toctree::
    :maxdepth: 2
    :hidden:
