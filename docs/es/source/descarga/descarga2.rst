@@ -6,10 +6,6 @@ Mando ARS-USB_PST
 
 En esta sección poudes descargar los manuales y programas para el modelo de ARS que sirve de mando o controlador del Prosistel.
 
-.. hint:: 
-    Recuerda que este modelo sustituye al mando original y el motor se conecta directamente al mando
-----------
-
     Enlace de Descarga en:
 
 
@@ -19,6 +15,9 @@ En esta sección poudes descargar los manuales y programas para el modelo de ARS
         :align: center 
     
   
+.. hint:: 
+    Recuerda que este modelo sustituye al mando original y el motor se conecta directamente al mando
+----------
 
 
 
