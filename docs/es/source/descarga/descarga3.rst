@@ -13,14 +13,14 @@ En esta sección poudes descargar los manuales y programas para el modelo de ARS
 
     Enlace de Descarga en:
 
-    .. image:: ./images/descarga.png
+    .. image:: ../images/descarga.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-yaesu/
         :alt: Descarga
         :align: center 
 
 
 
-.. image:: images/CD-ROM-ARS.png
+.. image:: ../images/CD-ROM-ARS.png
     :width: 30%
     :align: center  
 
