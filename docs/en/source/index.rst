@@ -35,11 +35,11 @@ If you have technical problems or cannot find the information you need in the pr
 
 
 :Autor: |Author|
-:Contacto: |Email|
+:Contact: |Email|
 
-:Placa: |Product|
-:Versión: |Version|
-:Fecha: |Date|
+:Design: |Product|
+:Version: |Version|
+:Date: |Date|
 
 
 
