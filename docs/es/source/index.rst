@@ -55,7 +55,7 @@ puedes contáctarme directamente:
    glossary
    
 
-.. |usflag| image:: ./flag-en.png
+.. |usflag| image:: images/flags/flag-en.png
    :height: 20
    :width: 25
    :target: https://ars-usb.readthedocs.io/en/latest
