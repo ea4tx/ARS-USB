@@ -1,12 +1,7 @@
 ⤵ Descarga
 ================
 
-.. intro::  
-   :sorted:
-
-
 Puedes descargar los manuales y programas para los diferentes modelos de ARS. 
-
 
 .. toctree::
    :maxdepth: 3
