@@ -19,7 +19,4 @@ It can also be used with other motors that use a potentiometer and operate at 12
    Remember that this model replaces the original controller and the motor connects directly to the ARS-USB_Yaesu controller.
 ----------
 
-.. image:: ../images/CD-ROM-ARS.png
-    :width: 30%
-    :align: center  
 

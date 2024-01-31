@@ -21,7 +21,5 @@ En esta sección puedes descargar los manuales y programas para el modelo de ARS
 
 
 
-.. image:: ../images/CD-ROM-ARS.png
-    :width: 30%
-    :align: center  
+
 

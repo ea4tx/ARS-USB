@@ -17,7 +17,5 @@ En esta sección puedes descargar los manuales y programas para los siguientes m
      
 
 
-.. image:: ../images/CD-ROM-ARS.png
-    :width: 30%
-    :align: center  
+
 

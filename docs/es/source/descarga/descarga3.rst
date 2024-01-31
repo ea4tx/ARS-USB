@@ -19,7 +19,5 @@ Tambien se puede usar con otros motores que utlicen potenciometro y funcionen a 
     Recuerda que este modelo sustituye al mando original y el motor se conecta directamente al mando.
 ----------
 
-.. image:: ../images/CD-ROM-ARS.png
-    :width: 30%
-    :align: center  
+
 
