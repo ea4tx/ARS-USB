@@ -10,7 +10,7 @@ In this section you can download the manuals and programs for the following ARS 
 
     Download Link at:
 
-.. image:: ../images/descarga.png
+.. image:: ../images/download.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
         :alt: Download
         :align: center

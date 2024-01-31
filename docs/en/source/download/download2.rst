@@ -8,9 +8,9 @@ In this section you can download the manuals and programs for the ARS model that
 
     Download Link at:
 
-.. image:: ../images/descarga.png
+.. image:: ../images/download.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-pst/
-        :alt: Descarga
+        :alt: Download
         :align: center 
     
   

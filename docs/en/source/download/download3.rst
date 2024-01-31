@@ -9,9 +9,9 @@ It can also be used with other motors that use a potentiometer and operate at 12
 
     Download Link at:
 
-    .. image:: ../images/descarga.png
+    .. image:: ../images/download.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb-yaesu/
-        :alt: Descarga
+        :alt: Download
         :align: center 
 
 
