@@ -1,18 +1,18 @@
-ARS-USB de Acimut o Acimut y Elevación
+ARS-USB for Azimuth or Azimuth & Elevation
 =========================================
 
 .. intro::  
    :sorted:
 
-En esta sección puedes descargar los manuales y programas para los siguientes modelos de ARS:
-    - ARS-USB de Acimut
-    - ARS-USB de Acimut y Elevación
+In this section you can download the manuals and programs for the following ARS models:
+     - Azimuth ARS-USB
+     - ARS-USB Azimuth and Elevation
 
-    Enlace de Descarga en:
+    Download Link at:
 
 .. image:: ../images/descarga.png
         :target: https://ea4tx.com/sdm_downloads/cd-rom-ars-usb/
-        :alt: Descarga
+        :alt: Download
         :align: center
      
 

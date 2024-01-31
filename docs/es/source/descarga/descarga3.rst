@@ -4,7 +4,8 @@ Mando ARS-USB_Yaesu
 .. intro::  
    :sorted:
 
-En esta sección poudes descargar los manuales y programas para el modelo de ARS que sirve de mando o controlador para cualquier motor Yaesu que funcione a 24Vcc o motores que sean similares.
+En esta sección puedes descargar los manuales y programas para el modelo de ARS que sirve de mando o controlador para cualquier motor Yaesu que funcione a 24Vcc.
+Tambien se puede usar con otros motores que utlicen potenciometro y funcionen a 12Vdc o 24Vdc.
 
     Enlace de Descarga en:
 
