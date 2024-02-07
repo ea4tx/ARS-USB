@@ -6,4 +6,4 @@
 English Version
 ================
 
-To access the Spanish Version `CLICK HERE <https://ars-usb.readthedocs.io/es/latest />`_ 
+To access the English Version `CLICK HERE <https://ars-usb.readthedocs.io/en/latest />`_ 
