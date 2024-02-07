@@ -50,4 +50,4 @@ The operation of the ARS-USB is very simple and consists of two parts:
     - ✅ **Rotation Control**: Responsible for providing the voltage to the motor so that it turns right or left (Up or down in elevation motors).
 
 .. image:: images/caja_ars.jpg
-    :width: 433%
+    :width: 33%
