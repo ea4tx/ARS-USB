@@ -8,10 +8,9 @@ We have created several sections to facilitate direct access to the area you are
 .. toctree::
    :maxdepth: 3
    :numbered:
-
+ 
    faqs/ars
    faqs/arsvcom
    faqs/rspi
    
-
    
